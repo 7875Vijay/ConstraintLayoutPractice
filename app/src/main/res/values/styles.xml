@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">#232323</item>
-        <item name="colorPrimaryDark">#232323</item>
-        <item name="colorAccent">#24C7B6</item>
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:backgroundTint">#C6512F</item>
     </style>
 </resources>
